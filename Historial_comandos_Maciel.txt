@@ -1,0 +1,141 @@
+vagrant up
+vagrant ssh
+vagrant up
+vagrant up
+git init
+[200~https://github.com/upszot/UTN-FRA_SO_Vagrant.git~
+git clone [200~https://github.com/upszot/UTN-FRA_SO_Vagrant.git~
+git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+cat Vagrantfile 
+vagrant status
+vagrant --version
+clear
+vagrant up
+vagrant halt
+vagrant up
+vagrant up
+vagrant --version
+vagrant up
+clear
+vagrant up
+vagrant up
+ls -l
+cat Vagrantfile 
+vagrant status
+clear
+vagrant up
+[200~config.vm.network "public_network"
+config.vm.network "public_network"
+vagrant up
+clear
+vagrant  up
+vagrant ssh
+vagrant  up
+vagrant ssh
+ls
+vagrant halt
+exit
+vagrant  up
+cat > archivo1.txt
+cat > archivo2.txt
+cat > archivo3.txt
+ls
+cat arhivo1.txt archivo2.txt > archivo3.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+cat arhivo3.txt
+cat archivo3.txt
+cat archivo2.txt
+cat archivo3.txt
+cat archivo1.txt
+cat > archivo1.txt
+cat > archivo2.txt
+grep dias archivo1.txt
+grep -c dias archivo1.txt
+grep -n dias archivo1.txt
+grep martes archivo1.txt|grep martes archivo2.txt
+grep archivo1.txt martes|grep archivo2.txt martes
+grep Martes archivo1.txt|grep Martes archivo2.txt
+grep -i martes archivo1.txt|grep -i martes archivo2.txt
+vagrant halt
+exit
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/MFRANCO.pub
+clear
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+Cd 
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:FrancoMaciel920/Tp_AySO.git
+cd Tp_AySO
+git clone git@github.com:FrancoMaciel920/Tp_AySO.git
+cd Tp_AySO/
+pwd
+ls -l
+cat /etc/os-release
+cat /etc/os-release
+cat /etc/os-release
+cat /etc/os-release
+/..
+ls
+cat /etc/os-release
+pwd
+whoami
+echo "usuario=$(whoami)">datos_usuario.txt
+ls
+grep -i HOME_URL /etc/os-release
+git add
+git add .
+git config --global user.email macielfranco553@gmail.com
+git config --global user.name FrancoMaciel920
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+/proc/cpuinfo
+grep "model name" /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head-n1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git commit -m "feat: agregar informacion del CPU a datos_usuario.txt"
+git commit -am "feat: agregar informacion del CPU a datos_usuario.txt"
+cat << EOF >> README.md
+Alumno: Franco
+Division: 114
+Turno: mañana
+EOF
+
+git add README.md datos_usuario.txt 
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mk -p {materia1,materia2}/{unidad1,unidad2,unidad3}
+mkdir -p {materia1,materia2}/{unidad1,unidad2,unidad3}
+ls -l
+cd materia1
+ls
+cd ../
+cd materia2
+ls
+cd ../
+ls -l
+mkdir script_dir.sh --x
+mkdir --x script_dir.sh
+mkdir -x script_dir.sh
+mk -x script_dir.sh
+vim script_dir.sh
+ls -l
+chmod 1 script_dir.sh 
+ls -l
+git add.
+git add .
+ls
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+ls -l
+cat /etc/os-release
+vagrant up
+history -a
